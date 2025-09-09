@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "HTTP:\\Users\\jrangel\\nschurmann-proyecto-js\\index.html"
+            "file": "HTTP:C:\\Users\\jrangel\\nschurmann-proyecto-js\\index.html"
         }
     ]
 }
